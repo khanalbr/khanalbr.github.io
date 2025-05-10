@@ -13,7 +13,7 @@
     
 }
 .navbar a:hover{
-    background-color: blue;
+    background-color: grey;
 }
 .navbar li {
     text-align: center;
